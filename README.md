@@ -5,6 +5,8 @@ https://discord.gg/ZR7aZWA <-요루봇서포트
 
 https://discord.gg/u8AYWkH <-스테이큐트
 
+http://yoru.pe.kr/dpsk
+
 # 설치 방법
 
 ## KOREAN
