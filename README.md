@@ -11,4 +11,4 @@ https://discord.gg/u8AYWkH <-스테이큐트
 1. 아직 개발단계입니다. 8월15일까지 기다려주세요.
 
 ## ENGLISH
-1.It is under development. Please wait until August 22.
+1. It is under development. Please wait until August 22.
