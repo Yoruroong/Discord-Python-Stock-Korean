@@ -1,13 +1,13 @@
 # Discord-Python-Stock-Korean
 
-# 설치하시기 전에
+# 설치하시기 전에(Before Install)
 https://discord.gg/ZR7aZWA <-요루봇서포트
 
 https://discord.gg/u8AYWkH <-스테이큐트
 
 http://yoru.pe.kr/dpsk
 
-# 설치 방법
+# 설치 방법(How to install)
 
 ## KOREAN
 1. 파이썬 3.5.4또는 그 이상의 버젼을 설치합니다.
@@ -22,3 +22,4 @@ http://yoru.pe.kr/dpsk
 3. Set the token, prefix and stock name of the bot file (bot.py).
 4. Run run.bat.
 5. If you get an error, please capture the error and leave it in the issue.
+>>Real english version will developed.
