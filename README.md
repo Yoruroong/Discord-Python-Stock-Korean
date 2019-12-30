@@ -5,7 +5,7 @@ https://discord.gg/ZR7aZWA <-요루봇서포트
 
 https://discord.gg/u8AYWkH <-스테이큐트
 
-http://yoru.pe.kr/dpsk
+http://yoru.pe.kr/dpsk <- 소개
 
 # 설치 방법(How to install)
 
@@ -15,6 +15,8 @@ http://yoru.pe.kr/dpsk
 3. 봇 파일(bot.py)의 토큰, 접두사, 주식 이름등을 설정합니다.
 4. run.bat를 실행합니다.
 5. 만약 오류가 뜬다면 그 오류를 캡쳐해서 이슈에 남겨주세요.
+
+-요루가 파이썬을 접어서, 큰 이슈가 아니면 수정을 못 할거 같아요.
 
 ## ENGLISH
 1. Install Python 3.5.4 or later.
