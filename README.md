@@ -1,5 +1,5 @@
 # Discord-Python-Stock-Korean
-개발중(예상 완료일 : 2020/02/15)
+개발중(예상 완료일 : 2021/02/15)
 
 # 설치하시기 전에(Before Install)
 https://discord.gg/ZR7aZWA <-요루봇서포트
