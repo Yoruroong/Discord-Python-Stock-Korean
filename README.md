@@ -14,10 +14,10 @@ DEVELOPING(Estimated Completion Date : 2021/02/15)
 
 ## Requirements
 
-| NAME | VERSION |
+| NAME | VERSION | developed version |
 |---|---|---|
-| Python | v.3.5.4 or Higher |
-| Module | [module](https://yoru.pe.kr/dpsk/module) |
+| Python | v.3.5.4 or Higher | v.3.5.4 |
+| Module | [module](https://yoru.pe.kr/dpsk/module) | [module](https://yoru.pe.kr/dpsk/module) |
 
 ## how?
 1. Developing
