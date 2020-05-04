@@ -1,5 +1,5 @@
 # Discord-Python-Stock-Korean
-DEVELOPING(Estimated Completion Date : 2021/02/15)
+DEVELOPING(Estimated Completion Date : 2020/12/25)
 
 # Before Installation
 [Yorubot support](https://discord.gg/ZR7aZWA)
